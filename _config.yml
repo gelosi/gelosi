@@ -57,11 +57,12 @@ github:
 # Plugins (Gems)
 # ---------------------------------------------------------------
 plugins:
-  - jekyll-feed       # Generates an RSS feed
-  - jekyll-seo-tag    # Essential for Google/Social Media sharing
-  - jekyll-sitemap    # Helps search engines find your pages
-  - jekyll-gist       # Embeds Gists easily
-  - jemoji            # Renders emoji shortcuts like :smile:
+  - jekyll-feed           # Generates an RSS feed
+  - jekyll-seo-tag        # Essential for Google/Social Media sharing
+  - jekyll-sitemap        # Helps search engines find your pages
+  - jekyll-gist           # Embeds Gists easily
+  - jemoji                # Renders emoji shortcuts like :smile:
+  - jekyll-include-cache  # caching
 
 # ---------------------------------------------------------------
 # Advanced Settings
